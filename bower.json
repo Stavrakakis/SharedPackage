@@ -1,0 +1,16 @@
+{
+  "name": "BowerPackage",
+  "version": "0.0.1",
+  "authors": [
+    "Nico Stavrakakis <nstavrakakis@scottlogic.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
