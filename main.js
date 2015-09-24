@@ -1,3 +1,3 @@
 var customModule = (function(){
-	console.log('old version loaded!');
+	console.log('version 0.0.2 loaded!');
 })()
