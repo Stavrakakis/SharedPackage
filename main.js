@@ -1,3 +1,3 @@
-(function(){
-	console.log('loaded!');
+var customModule = (function(){
+	console.log('old version loaded!');
 })()
