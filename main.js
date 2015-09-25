@@ -1,3 +1,11 @@
 var customModule = (function(){
-	console.log('version 0.0.2 loaded!');
+	console.log('development version custom module loaded!');
+	
+	var self = this;
+
+	self.sayHello = function() {
+		console.log('Hello!!');
+	};
+
+	return self;
 })()
