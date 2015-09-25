@@ -1,8 +1,8 @@
 {
   "name": "app.customstuff",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
-  "files": "main.js",
+  "files": ["dist"],
   "main": "main.js",
   "scripts": { },
   "author": "Nico Stavrakakis <nico.stavrakakis@gmail.com>",
