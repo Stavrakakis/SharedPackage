@@ -1,9 +1,0 @@
-node_modules
-bower_components
-gulpbuild
-Properties
-wwwroot
-*.xproj
-project.json
-project.lock.json
-tmp
